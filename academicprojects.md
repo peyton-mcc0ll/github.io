@@ -22,6 +22,7 @@ Link here*
 
 
 ## Project 2: (DC and AC Characterization of BJT Amplifiers)
+[View Project File][DC and AC Characterization of BJT Amplifiers (Common-Collector and Common-Emitter).pdf]
 **Description:**  
   This Project was completed during my time in Electronics 2 and covers experiments conducted to investigate the AC and DC characteristics of BJT amplifiers.
   The project is in a formal lab report format and covers analysis of different amplifier circuits (specifically common-emitter and common-collector) to visualize BJT operations through graphical and technical analysis. 
