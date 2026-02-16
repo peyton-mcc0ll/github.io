@@ -1,5 +1,4 @@
-# github.io
-Peyton McColl's Professional Audio Engineering Portfolio
+# Peyton McColl's Professional Audio Engineering Portfolio
 
 ## View Resume
 [Resume](resume.md)
