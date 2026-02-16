@@ -1,5 +1,7 @@
 # Peyton McColl's Professional Audio Engineering Portfolio
 
+**Quick Links:**
+
 ## View Resume
 [Resume](resume.md)
 
