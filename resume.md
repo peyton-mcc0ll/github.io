@@ -16,35 +16,35 @@ University of Alabama
 
 GPA: 2.986/4.0
 
-
+-------------------------<br>
 
 **Technical Skills**
 
-Typing Proficiency - 90 WPM
-Computer Proficient
-Programming: Python, MATLAB, C++
-Software: LTSpice, MATLAB, AutoCAD, Pro Tools, FL Studio
-Concepts: Signal Processing, Circuit Building/Analysis, Studio Operations, Music Theory
+Typing Proficiency - 90 WPM<br>
+Computer Proficient<br>
+Programming: Python, MATLAB, C++<br>
+Software: LTSpice, MATLAB, AutoCAD, Pro Tools, FL Studio<br>
+Concepts: Signal Processing, Circuit Building/Analysis, Studio Operations, Music Theory<br>
 
 
 **Projects**
 
-Senior Design: Worked as the head engineer for a self-recorded, produced, and mixed EP
-Junior Design: Complete Dolby Atmos Mix including 20+ tracks
-Personal Projects: Recorded and Mixed 100+ songs in Pro Tools/FL studio
+Senior Design: Worked as the head engineer for a self-recorded, produced, and mixed EP<br>
+Junior Design: Complete Dolby Atmos Mix including 20+ tracks<br>
+Personal Projects: Recorded and Mixed 100+ songs in Pro Tools/FL studio<br>
 
 
 **Experience**
 
-_Quadigitech Logistics -  (Contracted by Mercedes Benz USA)_
-    -Managed VIN data
-    -Oversaw the shipping of vehicles
-    -Ensured Vehicle Integrity
-_Tingle X-Ray_
-    -Helped manage warehouse
-    -Completed and shipped parts orders
-    -Managed Shipping data
-    -Forklift Operator
+_Quadigitech Logistics -  (Contracted by Mercedes Benz USA)_<br>
+    -Managed VIN data<br>
+    -Oversaw the shipping of vehicles<br>
+    -Ensured Vehicle Integrity<br>
+_Tingle X-Ray_<br>
+    -Helped manage warehouse<br>
+    -Completed and shipped parts orders<br>
+    -Managed Shipping data<br>
+    -Forklift Operator<br>
 
 
 **Leadership & Activities**
