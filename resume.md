@@ -6,7 +6,7 @@ Oklahoma City, OK
 
 
 
-Education
+**Education**
 
 Bachelor of Science in Musical Audio Technology
 
@@ -18,7 +18,7 @@ GPA: 2.986/4.0
 
 
 
-Technical Skills
+**Technical Skills**
 
 Typing Proficiency - 90 WPM
 Computer Proficient
@@ -27,34 +27,34 @@ Software: LTSpice, MATLAB, AutoCAD, Pro Tools, FL Studio
 Concepts: Signal Processing, Circuit Building/Analysis, Studio Operations, Music Theory
 
 
-Projects
+**Projects**
 
 Senior Design: Worked as the head engineer for a self-recorded, produced, and mixed EP
 Junior Design: Complete Dolby Atmos Mix including 20+ tracks
 Personal Projects: Recorded and Mixed 100+ songs in Pro Tools/FL studio
 
 
-Experience
+**Experience**
 
-Quadigitech Logistics -  Contracted by Mercedes Benz USA
-Managed VIN data
-Oversaw the shipping of vehicles
-Ensured Vehicle Integrity
-Tingle X-Ray
-Helped manage warehouse
-Completed and shipped parts orders
-Managed Shipping data
-Forklift Operator
+_Quadigitech Logistics -  (Contracted by Mercedes Benz USA)_
+    -Managed VIN data
+    -Oversaw the shipping of vehicles
+    -Ensured Vehicle Integrity
+_Tingle X-Ray_
+    -Helped manage warehouse
+    -Completed and shipped parts orders
+    -Managed Shipping data
+    -Forklift Operator
 
 
-Leadership & Activities
+**Leadership & Activities**
 
 Worked as the Head Engineer for a local musical artist
 
 
 
 
-Statement of Career Interests and Goals:
+**Statement of Career Interests and Goals:**
 
 Ever since I can remember I have always been the kind of person who wants to know how things work; whether it's how my favorite toy as a kid was able to drive around from a remote controller, or how my favorite song was brought to life. I aim to try and understand every little thing that interests me, relevant to my career or not.
 
