@@ -2,7 +2,9 @@
 
 | Oklahoma City, OK |
 
-(205)-207-7699 | pjmccoll1@icloud.com
+| (205)-207-7699 |
+
+| pjmccoll1@icloud.com |
 
 <br> <br>
 
