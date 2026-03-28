@@ -1,10 +1,10 @@
-Peyton McColl
+| Peyton McColl |
 
-Oklahoma City, OK
+| Oklahoma City, OK |
 
 (205)-207-7699 | pjmccoll1@icloud.com
 
-
+<br> <br>
 
 **Education**
 
@@ -29,22 +29,24 @@ Concepts: Signal Processing, Circuit Building/Analysis, Studio Operations, Music
 
 **Projects**
 
-Senior Design: Worked as the head engineer for a self-recorded, produced, and mixed EP<br>
-Junior Design: Complete Dolby Atmos Mix including 20+ tracks<br>
-Personal Projects: Recorded and Mixed 100+ songs in Pro Tools/FL studio<br>
+_Senior Design_: Worked as the head engineer for a self-recorded, produced, and mixed EP<br>
+_Junior Design_: Complete Dolby Atmos Mix including 20+ tracks<br>
+_Personal Projects_: Recorded and Mixed 100+ songs in Pro Tools/FL studio<br>
 
 
 **Experience**
 
 _Quadigitech Logistics -  (Contracted by Mercedes Benz USA)_<br>
-    -Managed VIN data<br>
-    -Oversaw the shipping of vehicles<br>
-    -Ensured Vehicle Integrity<br>
+     -Managed VIN data<br>
+     -Oversaw the shipping of vehicles<br>
+     -Ensured Vehicle Integrity<br>
+
+    
 _Tingle X-Ray_<br>
-    -Helped manage warehouse<br>
-    -Completed and shipped parts orders<br>
-    -Managed Shipping data<br>
-    -Forklift Operator<br>
+     -Helped manage warehouse<br>
+     -Completed and shipped parts orders<br>
+     -Managed Shipping data<br>
+     -Forklift Operator<br>
 
 
 **Leadership & Activities**
