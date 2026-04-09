@@ -1,0 +1,12 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-header {
+  background-color: #000; /* fallback while image loads */
+  background-image: url("/assets/images/header.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
