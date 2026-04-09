@@ -60,10 +60,14 @@
   background-position: center;
   background-repeat: no-repeat;
 
-  border-radius: 8px;
   z-index: 0;
+  
+  border-radius: 8px;
 
   filter: blur(2px);
+  transform: scale(1.05);
+
+  clip-path inset(3rem round 8px);
 }
 
 /* Keep text above the image */
