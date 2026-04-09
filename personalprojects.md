@@ -1,6 +1,6 @@
-#Personal Projects
+# Personal Projects
 
-##Project 1 (Spotify Artist Profile)
+## Project 1 (Spotify Artist Profile)
 **Description:**
   - Over the years of my education I have discovered a passion for songwriting, mixing/mastering, and producing. In order to have a place to put some of my projects out into the world, I created an artist alias under the name "JRonny" where I release music that I have created. Some of the songs are fully self-produced, while others use licensed instrumentals with my vocals and mixing. I have been writing songs for over 4 years and love sharing my art with the world. I mainly work on hip-hop/pop related music and have worked with many other artists during my journey.
 
