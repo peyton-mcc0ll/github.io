@@ -26,7 +26,7 @@ Link here*
 
 
 ## Project 3: (DC and AC Characterization of BJT Amplifiers)
-([Download My Project Report](assets/pdfs/DC and AC Characterization of BJT Amplifiers for Common-Collector and Common-Emitter Configurations.pdf)
+([View My Project Report]({{ '/assets/pdfs/DC and AC Characterization of BJT Amplifiers for Common-Collector and Common-Emitter Configurations.pdf' | relative_url }})
 
 **Description:**  
   This Project was completed during my time in Electronics 2 and covers experiments conducted to investigate the AC and DC characteristics of BJT amplifiers.
@@ -40,7 +40,7 @@ Link here*
 
 
 ## Project 4: (Basic Differential Amplifier)
-[Download My Project Report](assets/pdfs/Basic Differential Amplifier Circuit.pdf)
+[View My Project Report]({{'/assets/pdfs/Basic-Differential-Amplifier-Circuit.pdf' | relative_url }})
 
 **Description:**
   This project was completed during my time in Electronics 2 and covers verifications and experiments to test the effectiveness of amplification produced from a self-designed Amplifier Circuit. This lab report covers a circuit that combines a Widlar current source and a basic transistor-based amplifier to produce measurements for differential and common-mode gain. These measurements were used to find the common-mode rejection ratio value of my design in order to evaluate the effectiveness of amplification and noise rejection. 
