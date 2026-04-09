@@ -13,10 +13,10 @@
 
 .page-header {
   background: linear-gradient(120deg, #155799, #159957);
-  padding: 4rem 2rem;
+  padding: 4rem;
 }
 
-.page-header .inner {
+.page-header > * {
   background-image: url("../images/header.jpg");
   background-size: cover;
   background-position: center;
