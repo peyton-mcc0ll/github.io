@@ -50,10 +50,10 @@
 .page-header::before {
   content: "";
   position: absolute;
-  top: 3.5rem;
-  left: 3.5rem;
-  right: 3.5rem;
-  bottom: 3.5rem;
+  top: 1rem;
+  left: 1rem;
+  right: 1rem;
+  bottom: 1rem;
 
   background-image: url("../images/header.jpg");
   background-size: cover;
@@ -79,6 +79,6 @@
 
 /* Optional: button text cleanup */
 .page-header .btn {
-  color: white;
+  color: black;
   border-color: rgba(255, 255, 255, 0.7);
 }
