@@ -38,4 +38,5 @@ Link here*
 
 
 
-## Project 4: (...)
+## Project 4: (Basic Differential Amplifier)
+[Download My Project Report](Basic Differential Amplifier Circuit.pdf)
