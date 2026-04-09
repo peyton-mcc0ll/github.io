@@ -1,4 +1,4 @@
-## Peyton McColl
+## **Peyton McColl**
 **Musical Audio Technology Major**
 
 ## **About Me:**
