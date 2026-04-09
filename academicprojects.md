@@ -2,12 +2,13 @@
 
 ## Project 1: (Dolby Atmos Mix)
 **Description:**
-  
+  - This project introduced me to the world of Dolby Atmos mixing. Throughout this project I learned about the software used to bridge audio from Pro Tools into the Dolby Atmos Renderer as well as the studio setup required to mix accurately. I worked on an EDM track that would be typical in a Dolby Atmos mixing scenario and got delved into the non-traditional panning methods that Atmos allows.
+
 **Skills:** 
-  - recording, mixing, signal chain, studio troubleshooting
+  - Recording, Mixing, Signal Chain, Studio Troubleshooting
 
 **Relevance** 
-  -
+  - . 
 
 Link here*
 
@@ -25,18 +26,27 @@ Link here*
 
 
 ## Project 3: (DC and AC Characterization of BJT Amplifiers)
-([DC and AC Characterization of BJT Amplifiers for Common-Collector and Common-Emitter Configurations.pdf](https://github.com/peyton-mcc0ll/github.io/blob/main/DC%20and%20AC%20Characterization%20of%20BJT%20Amplifiers%20for%20Common-Collector%20and%20Common-Emitter%20Configurations.pdf))
+([Download My Project Report](DC and AC Characterization of BJT Amplifiers for Common-Collector and Common-Emitter Configurations.pdf)
 
 **Description:**  
   This Project was completed during my time in Electronics 2 and covers experiments conducted to investigate the AC and DC characteristics of BJT amplifiers.
   The project is in a formal lab report format and covers analysis of different amplifier circuits (specifically common-emitter and common-collector) to visualize BJT operations through graphical and technical analysis. 
 
 **Skills:**
-  - 
+  - Circuit Design, Problem Solving, and 
   
-**Why it matters:**
+**Relevance:**
 
 
 
 ## Project 4: (Basic Differential Amplifier)
 [Download My Project Report](Basic Differential Amplifier Circuit.pdf)
+
+**Description:**
+  This project was completed during my time in Electronics 2 and covers verifications and experiments to test the effectiveness of amplification produced from a self-designed Amplifier Circuit. This lab report covers a circuit that combines a Widlar current source and a basic transistor-based amplifier to produce measurements for differential and common-mode gain. These measurements were used to find the common-mode rejection ratio value of my design in order to evaluate the effectiveness of amplification and noise rejection. 
+
+**Skills:**
+ - Circuit Design, Problem Solving, and 
+
+**Relevance:**
+
