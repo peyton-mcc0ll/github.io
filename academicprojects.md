@@ -13,7 +13,7 @@ Link here*
 
 
 
-## Project 3: (Studio Produced EP)
+## Project 2: (Studio Produced EP)
 **Description**
   ...
   
@@ -24,7 +24,7 @@ Link here*
  -
 
 
-## Project 2: (DC and AC Characterization of BJT Amplifiers)
+## Project 3: (DC and AC Characterization of BJT Amplifiers)
 ([DC and AC Characterization of BJT Amplifiers for Common-Collector and Common-Emitter Configurations.pdf](https://github.com/peyton-mcc0ll/github.io/blob/main/DC%20and%20AC%20Characterization%20of%20BJT%20Amplifiers%20for%20Common-Collector%20and%20Common-Emitter%20Configurations.pdf))
 
 **Description:**  
@@ -38,4 +38,4 @@ Link here*
 
 
 
-## Project 3: (...)
+## Project 4: (...)
