@@ -11,7 +11,7 @@
   background-repeat: no-repeat;
 } */
 
-.page-header {
+/*.page-header {
   background: linear-gradient(120deg, #155799, #159957);
   padding: 4rem;
 }
@@ -31,4 +31,54 @@
   color: black;
   text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.6);
 }
-  
+/*
+
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Outer gradient area */
+.page-header {
+  position: relative;
+  overflow: hidden;
+  padding: 5rem 2rem;
+  background: linear-gradient(120deg, #155799, #159957);
+}
+
+/* One single inner image panel */
+.page-header::before {
+  content: "";
+  position: absolute;
+  top: 3.5rem;
+  left: 3.5rem;
+  right: 3.5rem;
+  bottom: 3.5rem;
+
+  background-image: url("../images/header.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  border-radius: 8px;
+  z-index: 0;
+}
+
+/* Keep text above the image */
+.page-header > * {
+  position: relative;
+  z-index: 1;
+}
+
+/* Header text color */
+.project-name,
+.project-tagline {
+  color: black;
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);
+}
+
+/* Optional: button text cleanup */
+.page-header .btn {
+  color: white;
+  border-color: rgba(255, 255, 255, 0.7);
+}
