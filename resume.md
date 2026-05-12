@@ -1,6 +1,7 @@
 <a href="index.html" class="back-button">
   ← Go Back to Landing Page
 </a>
+<br>
 
 | Peyton McColl |
 
