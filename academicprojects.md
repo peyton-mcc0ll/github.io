@@ -13,6 +13,7 @@
 
 ## Project 2: (Fully Self Produced Studio Track)
 [Listen To The Full Track]({{ '/assets/mp3/20260306_MUS 430_SR_PeytonMcColl_mp3.mp3' | relative_url }})
+
 [Alternative Link]({{ '/assets/pdfs/Senior Track.pdf' | relative_url }})
 
 **Description**
