@@ -8,21 +8,18 @@
   - Recording, Mixing, Signal Chain, Studio Troubleshooting
 
 **Relevance** 
-  - . 
+  - Versatility in studio mixes
+  - 
 
-Link here*
-
-
-
-## Project 2: (Studio Produced EP)
+## Project 2: (Fully Self Produced Studio Track)
 **Description**
-  ...
+  - This project was apart of my senior project and involved creating a track fully from scratch including the production, lyrics, and mixing/mastering. The track follows a trap drum influenced production with uplifting and high energy vocals using modern mixing techniques. The production was done mainly in FL Studio while all recording and final mixing was accomplished in Pro Tools.
   
 **Skills** 
-  -
+  - Recording, Producing, Songwriting, Mixing, Multi-DAW workflow, Studio Troubleshooting
   
 **Relevance**
- -
+ - Shows my ability to create a full song from scratch using multiple DAW's
 
 
 ## Project 3: (DC and AC Characterization of BJT Amplifiers)
@@ -36,7 +33,7 @@ Link here*
   - Circuit Design, Problem Solving, and 
   
 **Relevance:**
-
+  - Technical Circuity Work
 
 
 ## Project 4: (Basic Differential Amplifier)
@@ -49,4 +46,4 @@ Link here*
  - Circuit Design, Problem Solving, and 
 
 **Relevance:**
-
+ - Technical Compound Circuity Work
