@@ -1,3 +1,7 @@
+<a href="index.html" class="back-button">
+  ← Go Back to Landing Page
+</a>
+
 # Personal Projects
 
 ## Project 1 (Spotify Artist Profile)
