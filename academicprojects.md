@@ -34,8 +34,7 @@
 [View My Project Report]({{ '/assets/pdfs/DC and AC Characterization of BJT Amplifiers for Common-Collector and Common-Emitter Configurations.pdf' | relative_url }})
 
 **Description:**  
-  This Project was completed during my time in Electronics 2 and covers experiments conducted to investigate the AC and DC characteristics of BJT amplifiers.
-  The project is in a formal lab report format and covers analysis of different amplifier circuits (specifically common-emitter and common-collector) to visualize BJT operations through graphical and technical analysis. 
+  - This Project was completed during my time in Electronics 2 and covers experiments conducted to investigate the AC and DC characteristics of BJT amplifiers. The project is in a formal lab report format and covers analysis of different amplifier circuits (specifically common-emitter and common-collector) to visualize BJT operations through graphical and technical analysis. 
 
 **Skills:**
   - Circuit Design, Problem Solving, and 
@@ -48,7 +47,7 @@
 [View My Project Report]({{ '/assets/pdfs/Basic Differential Amplifier Circuit.pdf' | relative_url }})
 
 **Description:**
-  This project was completed during my time in Electronics 2 and covers verifications and experiments to test the effectiveness of amplification produced from a self-designed Amplifier Circuit. This lab report covers a circuit that combines a Widlar current source and a basic transistor-based amplifier to produce measurements for differential and common-mode gain. These measurements were used to find the common-mode rejection ratio value of my design in order to evaluate the effectiveness of amplification and noise rejection. 
+ - This project was completed during my time in Electronics 2 and covers verifications and experiments to test the effectiveness of amplification produced from a self-designed Amplifier Circuit. This lab report covers a circuit that combines a Widlar current source and a basic transistor-based amplifier to produce measurements for differential and common-mode gain. These measurements were used to find the common-mode rejection ratio value of my design in order to evaluate the effectiveness of amplification and noise rejection. 
 
 **Skills:**
  - Circuit Design, Problem Solving, and 
