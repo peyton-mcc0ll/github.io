@@ -46,13 +46,14 @@ _Personal Projects_: Recorded and Mixed 100+ songs in Pro Tools/FL studio<br>
 _Quadigitech Logistics -  (Contracted by Mercedes Benz USA)_<br>
      -Managed VIN data<br>
      -Oversaw the shipping of vehicles<br>
-     -Ensured Vehicle Integrity<br>
+     -Ensured vehicle integrity<br>
+     -Damage evaluation
 
     
 _Tingle X-Ray_<br>
      -Helped manage warehouse<br>
      -Completed and shipped parts orders<br>
-     -Managed Shipping data<br>
+     -Managed shipping data<br>
      -Forklift Operator<br>
 
 
