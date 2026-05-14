@@ -73,12 +73,12 @@ While my interests have surely evolved over the years, I have always had a passi
 
 
 
-During my time here at the University of Alabama I have taken many courses covering Circuitry, Signal Analysis, Digital Logic, and Studio Recording Techniques. All of these courses have caught my interest, but working in a studio definitely caught my attention the most. Although my degree was initially accredited by IEEE as an official "Audio Engineering" degree, complications with the school of music removed these accreditations. With accreditations or not, I have still acquired a skillset useful for my field and hope to one day build and operate my own recording studio!
+During my time at the University of Alabama I took many different courses covering Circuitry, Signal Analysis, Digital Logic, and Studio Recording Techniques. All of these courses piqued my interest, but working in a studio definitely caught my attention the most. Although my degree was initially accredited by IEEE as an official "Audio Engineering" degree, complications with the school of music removed these accreditations. With accreditations or not, I have still acquired a skillset useful for my field and hope to one day build and operate my own recording studio!
 
 
 
-After graduation, I plan on finding work in a recording studio close to home in order to get more real world experience as a studio engineer. I hope to bring a skillset to a studio that is one of one and makes the lives of producers, recording artists, and designers as easy as possible. This will hopefully bring me one step closer to my dream of designing and opening my own studio. As someone who holds many interests I do not want to limit myself to one specific role. I am very open to begin my professional journey designing or installing professional audio equipment as that has always peaked my interest as well.
+Since graduating, I plan on finding work in a recording studio close to home in order to get more real world experience as a studio engineer. I hope to bring a skillset to a studio that is one of one and makes the lives of producers, recording artists, and designers as easy as possible. This will hopefully bring me one step closer to my dream of designing and opening my own studio. As someone who holds many interests I do not want to limit myself to one specific role. I am very open to begin my professional journey designing or installing professional audio equipment as that has always peaked my interest as well.
 
 
 
-I believe that with the skills learned through my years of study here - design/experimental Labs, studio operation, many (many) lectures, and problem solving - I will make a great fit to any team willing to bring me along.
+I believe that with the skills learned through my years of study - design/experimental Labs, studio operation, many (many) lectures, and problem solving - as well as my own personal endeavors - many years of experimenting in a DAW, realeasing music, and working with other artists - I will make a great fit to any team willing to bring me along.
