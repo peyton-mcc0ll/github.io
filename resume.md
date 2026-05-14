@@ -78,7 +78,7 @@ During my time at the University of Alabama I took many different courses coveri
 
 
 
-Since graduating, I plan on finding work in a recording studio close to home in order to get more real world experience as a studio engineer. I hope to bring a skillset to a studio that is one of one and makes the lives of producers, recording artists, and designers as easy as possible. This will hopefully bring me one step closer to my dream of designing and opening my own studio. As someone who holds many interests I do not want to limit myself to one specific role. I am very open to begin my professional journey designing or installing professional audio equipment as that has always peaked my interest as well.
+Since graduating, my hope is to find work in a recording studio close to home in order to get more real world experience as a studio engineer. I hope to bring a skillset to a studio that is one of one and makes the lives of producers, recording artists, and designers as easy as possible. This will hopefully bring me one step closer to my dream of designing and opening my own studio. As someone who holds many interests I do not want to limit myself to one specific role. I am very open to begin my professional journey designing or installing professional audio equipment as that has always peaked my interest as well.
 
 
 
