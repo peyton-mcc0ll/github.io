@@ -7,6 +7,6 @@
 This portfolio includes my resume and projects documenting my technical growth.
 
 ## Navigation
-- [Resume](resume.md)
+- [Resume & Statement Of Purpose](resume.md)
 - [Academic Projects](academicprojects.md)
 - [Personal Projects](personalprojects.md)
