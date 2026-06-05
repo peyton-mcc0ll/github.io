@@ -18,10 +18,3 @@
 [Apple Music Artist Page](https://music.apple.com/us/artist/jronny/1590232623) <br>
 [Amazon Music Artist Page](https://music.amazon.com/artists/B09JFMHF3B/jronny?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_jyqDkl0qBCqmSm9dMlx1wMJVA) <br>
 
-
-## Project 2 (AutoCAD Project)
-**Description:**
-
-**Skills:**
-
-**Relevance:**
