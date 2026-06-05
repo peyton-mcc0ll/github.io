@@ -12,7 +12,7 @@
   - Recording, Mixing, Songwriting, Producing, Music Theory, and DAW Literacy.
 
 **Relevance:**
-  - Working on my own as an independant artist has shown me what is required of an artist in terms of quality, work
+  - Working on my own as an independant artist has shown me what is required of an artist in terms of quality, work ethic, and technical abilities
 
 [Spotify Artist Page](https://open.spotify.com/artist/0FRmnPemYXz6lOsGtDYeey?si=ANSY7BeGSWqZ4GiGWi7m5g) <br>
 [Apple Music Artist Page](https://music.apple.com/us/artist/jronny/1590232623) <br>
