@@ -30,4 +30,4 @@
   - This project showcases foundational CAD skills used in spatial planning as well as my ability to produce accurate and organized drawings.
 
 [Part Design PDF Plot]({{'/assets/pdfs/Beginnings-Layout2.pdf' | relative_url}}) <br>
-[Floor Plan PDF Plot}{{'/assets/pdfs/FloorPlanBeginnings-Layout1.pdf' | relative_url}}) <br>
+[Floor Plan PDF Plot]{{'/assets/pdfs/FloorPlanBeginnings-Layout1.pdf' | relative_url}}) <br>
