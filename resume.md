@@ -21,8 +21,6 @@ Expected Graduation: May 2026
 
 University of Alabama
 
-GPA: 2.986/4.0
-
 ----------------------------------------------------------------<br>
 
 **Technical Skills**
@@ -39,6 +37,7 @@ Concepts: Signal Processing, Circuit Building/Analysis, Studio Operations, Music
 _Senior Design_: Worked as the head engineer for a self-recorded, produced, and mixed EP<br>
 _Junior Design_: Complete Dolby Atmos Mix including 20+ tracks<br>
 _Personal Projects_: Recorded and Mixed 100+ songs in Pro Tools/FL studio<br>
+_Electronics Workshop_: Designed and tuned a BJT Differential Amplifier using breadboard circuits.<br>
 
 
 **Experience**
