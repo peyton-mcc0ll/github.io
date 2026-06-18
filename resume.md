@@ -17,7 +17,7 @@
 
 Bachelor of Science in Musical Audio Technology
 
-Expected Graduation: May 2026
+Graduated: May 2026
 
 University of Alabama
 
